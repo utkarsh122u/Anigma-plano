@@ -23,7 +23,6 @@
 3. **📊 Analytics** – Charts & graphs to show student performance.
 4. **⚡ Supabase Integration** – Database for storing users, courses, progress.
 5. **🖥️ Figma → React UI** – Modern & clean interface with minimal coding effort.
-6. **🚀 Streamlit (Optional)** – Quick prototyping of analytics if React takes time.
 
 ---
 
